@@ -8,6 +8,7 @@ body {
   background: #0c0f16;
   color: #c8c8c8;
   font-family: 'Roboto', sans-serif;
+  font-size: 1rem;
 }
 
 header,
@@ -26,6 +27,15 @@ main {
 
 a {
   color: #75dab4;
+}
+a:hover {
+  color: #1ac986;
+}
+a:visited {
+  color: #149463;
+}
+a:active {
+  color: aqua;
 }
 
 footer {
