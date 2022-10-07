@@ -1,1 +1,2 @@
-
+// Main sctipts file.
+// Probably won't use it though...
