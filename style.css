@@ -1,4 +1,33 @@
-html, body {
+html,
+body {
   height: 100%;
   width: 100%;
+}
+
+body {
+  background: #0c0f16;
+  color: #c8c8c8;
+  font-family: 'Roboto', sans-serif;
+}
+
+header,
+footer {
+  background: #13161d;
+  padding: 1.5rem 0;
+  text-align: center;
+}
+header > h1 {
+  color: #75dab4;
+}
+
+main {
+  padding: 2rem 20%;
+}
+
+a {
+  color: #75dab4;
+}
+
+footer {
+  color: #999999;
 }
