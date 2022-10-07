@@ -21,11 +21,13 @@ header > h1 {
   color: #75dab4;
 }
 
+/* Add a little breathing room */
 main {
-  margin: 2rem 0;
+  margin: 2rem;
   padding: 0 20%;
 }
 
+/* I tried to make the link colors visibly different */
 a {
   color: #75dab4;
 }
@@ -37,6 +39,11 @@ a:visited {
 }
 a:active {
   color: aqua;
+}
+
+/* Gives some spacing between */
+hr {
+  margin: 3em 0;
 }
 
 footer {
